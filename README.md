@@ -238,4 +238,4 @@ The Witcher 3: Wild Hunt is offered as the complete free version with all featur
 Start your adventure now by downloading The Witcher 3: Wild Hunt for free and experience the magic and moral dilemmas that await!
 
 ---
-**Last updated:** 2026-10-06 23:35:39 UTC
+**Last updated:** 2026-10-07 04:36:14 UTC
